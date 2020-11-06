@@ -1,4 +1,4 @@
-#TUGAS PRAKTIKUM 3
+#TUGAS PRAKTIKUM 3 
 ##Latihan1.py
 - Tampilkan **n** bilangan acak yang lebih dari 0,5
 - Nilai **n** diisi pada saat runtime
